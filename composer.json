@@ -1,5 +1,5 @@
 {
-  "name": "everyman/neo4jphp",
+  "name": "guesttoguest/neo4jphp",
   "type": "library",
   "description": "Wrapper for the Neo4j graph database REST interface",
   "keywords": ["neo4j","graph","database"],
@@ -18,6 +18,6 @@
     "squizlabs/php_codesniffer": "1.5.*"
   },
   "autoload": {
-    "psr-0": {"Everyman\\Neo4j":"lib/"}
+    "psr-0": {"GuestToGuest\\Neo4j":"lib/"}
   }
 }
